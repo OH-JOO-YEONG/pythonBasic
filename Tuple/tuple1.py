@@ -1,0 +1,10 @@
+tuple1 = (1, 2, 3)
+print(tuple1)
+a=type(tuple1)
+print(a)
+tuple2 = 1, 2, 3
+print(tuple2)
+b = type(tuple2)
+print(b)
+list = list(tuple2)
+print(list)
